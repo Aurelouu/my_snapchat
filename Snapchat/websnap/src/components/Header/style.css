@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0;
+}
+img{
+    height: 50px;
+    border: grey;
+}
+.headerMenu a{
+    display: inline-block;
+    margin: 0 10px;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.headerMenu a:hover{
+    color: grey;
+}

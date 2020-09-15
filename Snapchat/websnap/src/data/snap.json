@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id":1,
+      "blogCategory":"Featured",
+      "blogTitle": "Histoire du développment de l'application et son utilité",
+      "postedOn": "4 Juin 2020",
+      "author": "Aurélie | Dahaba | Kamel | Jonas",
+      "blogImage":"3e472498-f16a-45ab-8995-10e3046df4a8.jpeg",
+      "blogText": "Ce post raconte l'aventure du développement de l'application ainsi que son utilité. Nous avons développé cette application via plusieurs technologies tels que Android Studio en React-Native. Celà nous a prit 10 jours. En terme d'organistion nous avons utilisé Trello et les gitBranch. Nous avons fait des points tous les jours sur une heure donnée. L'après midi à 15h. En terme d'utilisation Snapchat est une application seravnt à s'envoyer des photos ou pouvoir échanger avec ses amis sans que la photo puisse rester dans la base de donnée. Elle est détruite à partir d'un temps échéant, pouvant aller de l'infini à 15 secondes"
+    },
+    {
+      "id":2,
+      "blogCategory":"Tutoriel",
+      "blogTitle": "Tutoriel et Utilisation",
+      "postedOn": "4 Juin 2020",
+      "author": "Aurélie | Dahaba | Kamel | Jonas",
+      "blogImage":"guide-snapchat.jpg",
+      "blogText": "Tout d'abord, vous devez vous inscrire sur notre site web ou alors directement sur l'application. Une fois enregistré vous allez devoir vous connecter avec vos identifiants. Vous pourrez donc utilisé directement les différentes fonctionnalités en swipant soit vers la gauche soit vers la droite. A droite vous aurez donc les amis pour envoyer les messages privés tout en les ajoutant. A gauche le mode photo qui servira pour envoyer du texte ou alors des photos instantanées."
+    },
+    {
+      "id":3,
+      "blogCategory":"Simple",
+      "blogTitle": "Aperçu du développement Apli",
+      "postedOn": "4 Juin 2020",
+      "author": "Aurélie | Dahaba | Kamel | Jonas",
+      "blogImage":"images.jpeg",
+      "blogText": "Un petit apperçu de l'application"
+    },
+    {
+      "id":4,
+      "blogCategory":"Simple",
+      "blogTitle": "Projet",
+      "postedOn": "4 Juin 2020",
+      "author": "Aurélie | Dahaba | Kamel | Jonas",
+      "blogImage":"snap2.jpeg",
+      "blogText": "En conclusion notre projet à été mené à bien avec plusieurs difficultés. Nous avons du effacer pour recommencer. Nous avons perdu du temps sur les bon critères à réaliser pendant le temps donné. Nous avons utiliser React-Native pour l'applcation. Nous avons utilisé ReactJs pour le site web. Ce projet à été développé en groupe et chacun d'entre nous y a mit de la bonne volonté et de la motivation pour réussir."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+.galleryPost{
+    display: flex;
+    justify-content: space-between;
+}
+.sideImageWrapper div{
+    width: 100%;
+}
+.sideImageWrapper div img{
+    max-width: 100%;
+    object-fit:cover;
+    height: 170px;
+    width: 100%;
+}
+.photoPost img{
+    max-width: 100%;
+    width: 100%;
+    object-fit:cover;
+    max-height: 100%;
+    height: 475px;
+}
+.sideImageWrapper{
+    height: 450px;
+    overflow: hidden;
+}

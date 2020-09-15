@@ -1,0 +1,15 @@
+.PostImageWrapper img{
+    max-width: 100%;
+    width: 100%;
+    object-fit:cover;
+    max-height: 100%;
+    height: 400px;
+}
+.PostImageWrapper{
+    height: 450px;
+    overflow: hidden;
+}
+.date{
+    color: lightslategrey;
+    font-style: italic;
+}
